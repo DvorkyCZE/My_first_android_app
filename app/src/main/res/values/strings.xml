@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My_first_android_app</string>
+    <string name="yourGuess">Your Guess</string>
+    <string name="startOver">Start Over</string>
+    <string name="submit">Submit</string>
+    <string name="guess">Guess 1 to 25</string>
+    <string name="questionMark">\??</string>
 </resources>
